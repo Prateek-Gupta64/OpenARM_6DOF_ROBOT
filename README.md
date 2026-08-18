@@ -8,7 +8,7 @@ OpenArm (NexArm) is a servo-actuated robotic arm built to demonstrate core princ
 
 ## Features
 
-- 5–6 degree-of-freedom articulated arm
+- 6 degree-of-freedom articulated arm
 - Servo motor actuation at each joint
 - Microcontroller-based control (Arduino)
 - Designed and manufactured as part of a collaborative team project
@@ -27,10 +27,4 @@ Developed by the OpenArm/NexArm team as part of MEP1001. Contributed across mult
 - **Control:** Arduino (microcontroller-based)
 - **Manufacturing:** [Add specific processes/tools used, e.g. 3D printing, CNC, laser cutting]
 
-## Getting Started
 
-> Add build instructions, wiring diagrams, and setup steps here if you plan to share this project publicly (e.g. on GitHub).
-
-## License
-
-> Add a license if applicable.
